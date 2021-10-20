@@ -1,6 +1,6 @@
-$i = 43200
+$i = VPS MADE BY iLucid
 do {
     Write-Host $i
-    Sleep 360
+    Sleep 43200
     $i--
 } while ($i -gt 0)
