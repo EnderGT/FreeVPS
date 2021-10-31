@@ -2,4 +2,5 @@
 
 *Free VPS Old Methods*
 
-# SELL REPOS 50K
+```SELL REPOS 5K```
+*Free HTTP GTPS*
